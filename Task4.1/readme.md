@@ -9,11 +9,11 @@ LICENSE: [MIT](./license.md)
 ----
 ### Содержание:
 
-1. [git config](./assets/config.md)
-2. [git add](./assets/add.md)
-3. [git commit](./assets/commit.md)
-4. [git init](./assets/init.md)
-5. [git clone](./assets/clone.md)
+1. [git config](./config.md)
+2. [git add](./add.md)
+3. [git commit](./commit.md)
+4. [git init](./init.md)
+5. [git clone](./clone.md)
 
 
 ---
